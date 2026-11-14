@@ -5,7 +5,7 @@ Bộ Add-in Word và Excel tập hợp các công cụ phục vụ công việc 
 Add-in Word hỗ trợ soạn thảo và chuẩn hóa tài liệu
 Tab “Tiện ích Word” sắp xếp các công cụ theo nhóm, phù hợp với nhu cầu biên soạn hợp đồng, chứng từ, biểu mẫu và báo cáo.
  
-Hình 1  Giao diện Add-in Word với tab Tiện ích Word
+Giao diện Add-in Word với tab Tiện ích Word
 Các tính năng nổi bật
 Chuyển số thành chữ. Có lựa chọn tiếng Việt, tiếng Anh và đơn vị đọc số, hỗ trợ trình bày các giá trị bằng chữ trong tài liệu.
 Xử lý văn bản. Chuyển chữ hoa, chữ thường, hoa đầu câu và hoa đầu từ; bổ sung các lệnh làm sạch, chuẩn hóa văn bản, đổi bảng mã và định dạng tài liệu.
@@ -17,7 +17,7 @@ Nhân viên hành chính có thể dùng các lệnh chuyển kiểu chữ và c
 Add-in Excel hỗ trợ xử lý và khai thác dữ liệu
 Tab “Tiện ích” trong Excel mở rộng công việc với bảng tính bằng các nhóm xử lý văn bản, thanh toán, mã vạch và QR, tra cứu hành chính, đối chiếu dữ liệu và xuất báo cáo.
  
-Hình 2  Giao diện Add-in Excel với tab Tiện ích
+Giao diện Add-in Excel với tab Tiện ích
 Các tính năng nổi bật
 Số và văn bản. Đọc số thành chữ tiếng Việt hoặc tiếng Anh, chọn đơn vị đọc số, xem tỷ giá; tách họ tên, xóa dấu tiếng Việt, đổi kiểu chữ và làm sạch dữ liệu.
 Thanh toán và nhận diện. Tạo VietQR, tra mã ngân hàng; tạo mã vạch, tạo mã QR và xóa mã.
