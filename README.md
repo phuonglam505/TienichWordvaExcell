@@ -58,7 +58,7 @@ Một số tính năng chủ động gọi dịch vụ ngoài: VietQR (ảnh tha
 
 ## Mã nguồn, giấy phép và hỗ trợ
 
-Mã nguồn Word/Excel tách khỏi bộ cài ở `source/Word` và `source/Excel`. Word phân phối theo GPL-2.0-or-later; xem giấy phép UniKey/third-party trong gói. Danh mục nguồn tham khảo/API nằm trong `THAM-KHAO.md` và `THIRD-PARTY-NOTICE.md` đi kèm. Đây là ghi nhận nguồn, không hàm ý các nhà cung cấp chứng thực sản phẩm.
+Mã nguồn Word và Excel được đóng gói riêng khỏi EXE trong hai tệp `MaNguon-...zip` ở phần Assets của GitHub Release. Word phân phối theo GPL-2.0-or-later; xem giấy phép UniKey/third-party trong gói. Danh mục nguồn tham khảo/API nằm trong `THAM-KHAO.md` và `THIRD-PARTY-NOTICE.md` đi kèm. Đây là ghi nhận nguồn, không hàm ý các nhà cung cấp chứng thực sản phẩm.
 
 Báo lỗi tại [GitHub Issues](https://github.com/phuonglam505/TienichWordvaExcell/issues), kèm phiên bản, bản Office và bước tái hiện; không gửi dữ liệu khách hàng/tài liệu mật.
 
@@ -71,5 +71,6 @@ Microsoft Word/Excel bản desktop trên Windows; add-in Word yêu cầu .NET Fr
 Cả mã nguồn và bộ cài Word/Excel đều mang phiên bản **2026.11.06**.
 
 Tải đúng bộ cài trong [GitHub Releases](https://github.com/phuonglam505/TienichWordvaExcell/releases/tag/2026.11.06); chọn tệp có phiên bản mới nhất.
+
 
 
