@@ -1,10 +1,8 @@
 # Tiện ích Word và Excel Việt Nam
 
-Bộ add-in miễn phí cho Microsoft Office desktop trên Windows, đưa các công cụ văn phòng thường dùng vào Ribbon quen thuộc. Bản mã nguồn/tài liệu: **2026.11.06**.
+Bộ add-in miễn phí cho Microsoft Office desktop trên Windows, đưa các công cụ văn phòng thường dùng vào Ribbon quen thuộc. Bản mã nguồn/tài liệu: **202611.05**.
 
-![Thanh công cụ Word](docs/images/word-ribbon.svg)
 
-![Thanh công cụ Excel](docs/images/excel-ribbon.svg)
 
 ## Tải bộ cài và mã nguồn
 
